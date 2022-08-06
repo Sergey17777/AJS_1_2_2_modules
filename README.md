@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/bj9chvj1497l0dp6/branch/master?svg=true)](https://ci.appveyor.com/project/Sergey17777/ajs-1-2-2-modules/branch/master)
+
 
 # Домашнее задание к лекции «Модули»
 
